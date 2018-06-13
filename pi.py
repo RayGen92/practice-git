@@ -6,3 +6,4 @@ while i < 100000000:
 	i = i+4
 	#if (i-3)%10000000 == 0:	
 	print("pi= ", pi * 4, "i=", i-3)
+	#just trying to figure out stuff here, thanks
